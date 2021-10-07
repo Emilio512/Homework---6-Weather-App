@@ -1,0 +1,4 @@
+{
+    "liveServer.settings.port": 5504,
+    "window.title": "${activeEditorShort}${separator}${rootName} ${separator} [Branch: main]"
+}
